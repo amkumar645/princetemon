@@ -6,10 +6,15 @@ Princetémon is a Princeton-themed top-down role-playing video game (RPG). Inspi
 
 This project was created as a final project for the Spring 2022 COS426 class at Princeton University. It was developed by Arnav Kumar, Stephanie Yen, and Kirsten Pardo. 
 
-The main contributions of each are as such:
-Arnav Kumar: Created initial code setup and method to read in tilesets and create tilemaps, developed player/camera movement and scene switching, wrote and coded dialogue, minigames, and map/rewards pages.
+It was elected to the Final Project Hall of Fame and received 3 awards:
+Best Overall (Student Voted)
+Best Gameplay (Student Voted)
+Meme Award (Instructor Voted)
+
+The main contributions of each memebr are as such:
+Arnav Kumar: Set up initial code and created methods to read in tilesets and create tilemaps, developed player/camera movement and scene switching, wrote and coded dialogue, designed and coded minigames, and implemented map/rewards pages.
 Stephanie Yen: Coded/designed many of the tilemaps, thought of game plot and idea to make pixelated RPG.
-Kirsten Pardo: Designed all custom pixel art using Piskel and Photoshop.
+Kirsten Pardo: Designed all custom pixel art including sprites, objects, and pages using Piskel and Photoshop.
 
 Description of Game:
 Title Screen:
